@@ -1,3 +1,4 @@
+/usr/bin/python3
 """ Write a class that represents a Planet. The constructor class should accept the arguments radius (in meters) and rotation_period (in seconds). """
 """ You should implement three methods: surface_area rotation_frequency. """
 

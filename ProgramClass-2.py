@@ -1,3 +1,4 @@
+/usr/bin/python3
 class bike:
     
     def __init__(self,color,price):

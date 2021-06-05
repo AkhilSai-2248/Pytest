@@ -1,3 +1,4 @@
+/usr/bin/python3
 class student:
     
     def __init__(self):

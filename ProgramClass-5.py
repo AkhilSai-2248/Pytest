@@ -1,3 +1,4 @@
+/usr/bin/python3
 class point:
     def __init__(self):
         self.xo = 0
