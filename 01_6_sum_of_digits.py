@@ -2,8 +2,8 @@
 
 # Write your code from here
 
-num = input("Enter a number: ")
+number = input("Enter a number: ")
 sum = 0
-for i in num :
+for i in number :
     sum = sum + int(i)
 print("Sum of Digits of a number:",sum)
